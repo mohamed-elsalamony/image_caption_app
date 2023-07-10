@@ -1,6 +1,7 @@
 # team_project_final
 
 A new Flutter project.
+this app help behind people to see through camera and contains some featuers to help visually imparied and illiterate people
 
 ## Getting Started
 
